@@ -23,6 +23,11 @@ h2{
 	color: black;
 }
 
+@font-face {
+    font-family: "Untitled1";
+    src:url("Untitled1.ttf");
+	}
+
 body {
 	margin: auto;
 background-image: url("pozadina.jpg")
